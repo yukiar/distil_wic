@@ -1,0 +1,8 @@
+torch==1.7.1+cu110
+gensim
+tqdm
+stanza
+langdetect
+transformers==4.11.1
+tokenizers==0.10.3
+pytorch-lightning==1.4.8

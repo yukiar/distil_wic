@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# cross-lingual models
+./src/create_training_corpora_crosslingual.sh
+./src/eval_crosslingual.sh
+./src/preprocess_eval_corpora_crosslingual.sh
+./src/train_distiller_crosslingual.sh
+./src/extract_freq_words_parallel.py
+./src/postprocess_corpus_parallel.py
+./src/preprocess_MLCWiC.py
+./src/preprocess_wikimatrix.py
+./src/merge_multilingual_corpora.py

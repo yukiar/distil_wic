@@ -14,7 +14,7 @@ The following script evaluates the trained distillers on CosimLex, USim, SCWS ta
 eval_monolingual.sh
 ```
 
-We preprocessed the evaluation corpora for simply sentence segmentation and tokenization. 
+We preprocessed the evaluation corpora with simple sentence segmentation and tokenization. 
 ```
 preprocess_eval_corpora_monolingual.sh
 ```
@@ -30,3 +30,8 @@ create_training_corpora_monolingual.sh
 ```
 
 For faster computation of fastText models, you may want to use [Magnitude](https://github.com/plasticityai/magnitude).
+
+## Citation
+When you use our codes in your projects, please cite the following paper.
+
+Yuki Arase and Tomoyuki Kajiwara. 2021. Distilling Word Meaning in Context from Pre-trained Language Models. in Findings of the Association for Computational Linguistics: EMNLP 2021. 

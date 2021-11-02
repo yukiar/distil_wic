@@ -3,6 +3,7 @@
 python preprocess.py --input path_to_corpus --line_num number_of_lines_in_corpus
 python recover_hyphen.py path_to_corpus path_to_output # Remove spacing around hyphens to for consistency to BERT tokenizer
 python extract_freq_words.py --input path_to_corpus --line_num number_of_lines_in_corpus --out_path path_to_output
+# Before the next step, please prepare paraphrases using round-trip translation
 python postprocess_corpus.py --original path_to_corpus --rtt path_to_round-trip-translation_of_corpus
 
 # Recommend to precompute representations of all targets, which greatly saves the training time

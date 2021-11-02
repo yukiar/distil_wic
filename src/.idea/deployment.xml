@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root@127.0.0.1:2023" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@127.0.0.1:2022">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/newscrawl" local="$PROJECT_DIR$/.." />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@127.0.0.1:2023">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code" local="$PROJECT_DIR$/../.." />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.17.0.1:2022">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/newscrawl/src" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.17.0.1:2022 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/distil_wic_release/src" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.17.0.1:2022 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/distil_wic_release/src" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.17.0.1:2022 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/distil_wic_release/distil_wic/src" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.17.0.1:2022 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/distil_wic_release/distil_wic/src" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.17.0.1:2022 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_924" local="$PROJECT_DIR$" />
+            <mapping deploy="/code/newscrawl" local="$PROJECT_DIR$/../data" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.17.0.1:2023">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/newscrawl/src" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

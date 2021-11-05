@@ -34,4 +34,19 @@ For faster computation of fastText models, you may want to use [Magnitude](https
 ## Citation
 When you use our codes in your projects, please cite the following paper.
 
-Yuki Arase and Tomoyuki Kajiwara. 2021. Distilling Word Meaning in Context from Pre-trained Language Models. in Findings of the Association for Computational Linguistics: EMNLP 2021. 
+Yuki Arase and Tomoyuki Kajiwara. 2021. Distilling Word Meaning in Context from Pre-trained Language Models. in Findings of the Association for Computational Linguistics: EMNLP 2021, pp. 534-546.  
+
+```
+@inproceedings{arase-kajiwara-2021-distilling-word,
+    title = "Distilling Word Meaning in Context from Pre-trained Language Models",
+    author = "Arase, Yuki  and
+      Kajiwara, Tomoyuki",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.49",
+    pages = "534--546",
+ }
+```
